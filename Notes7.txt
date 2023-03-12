@@ -1,1 +1,3 @@
-This is Sara's commit. She pushed from git local to remote
+      This is my first GitHub Class
+      This is my second commit
+      NEW Remote Code
